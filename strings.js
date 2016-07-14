@@ -1,16 +1,22 @@
-function mockInterview(name){
-	console.log(name+" is not ready for the mock interviews whatsoever");
-}
-mockInterview("Ben")
+// "I love Indiana!"
+// "My bank account has two million dollars"
 
-function fullName(b,h){
-	var b="Ben";
-	var h=" Harcourt";
-	console.log(b+h);
-}
-fullName()
+var myName = "Benjamin";
+console.log(myName);
+var password ="Passw0rd$"
+console.log(password);
+var birthDate= "June 6";
+console.log(birthDate);
+console.log("9"+"10");
+console.log("con"+"cat"+"e"+"na"+"tion")
+var birthCity="Indianapolis";
+var birthState="Indiana";
+var birthPlace= birthCity + ", " +birthState
+console.log(birthPlace);
 
-function winPrize(name){
-	console.log("Congradulatons "+name+"!"+" You won the grand prize!")
-}
-winPrize("Ben")
+//I graduated from Carmel High School in 1994//
+
+var gradYear= "never"
+var highSchool = "Carmel High School";
+
+console.log("I graduated from " +highSchool+ " in " +gradYear + ".")
