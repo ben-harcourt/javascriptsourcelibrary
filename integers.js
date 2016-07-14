@@ -1,0 +1,15 @@
+function(x,y){
+	console.log(x+y)
+};
+function(x,y){
+	console.log(x-y)
+};
+function(x,y){
+	console.log(x*y)
+};
+function(x,y){
+	console.log(x/y)
+};
+function(x,y){
+	console.log(x%y)
+};
