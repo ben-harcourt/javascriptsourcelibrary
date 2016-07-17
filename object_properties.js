@@ -16,4 +16,4 @@ var fishersYelpRestraunts = {
 for(var restraunt in fishersYelpRestraunts.directoryRestruants.restrauntInfo){
 	console.log(fishersYelpRestraunts.directoryRestruants.restrauntInfo[restraunt].name);
 }
-//copied and pasted from relp.it project to remind myself.
+//restrauntId, name, rating and topDish are properties
